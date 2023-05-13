@@ -1,4 +1,4 @@
-# Changes
+CHANGELOG.md# Changes
 
 * 0.50.0 - Improved rules
 * 0.49.0 - Improved rules and documentation
